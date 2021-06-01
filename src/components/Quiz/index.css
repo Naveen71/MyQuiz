@@ -1,0 +1,22 @@
+.nextButton{
+    background-color: #5680E9;
+    color:white;
+    align-self:right;
+    padding:12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-width:0px;
+    border-radius :8px;
+    font-size:15px;
+    font-family:"Roboto";
+    margin-top:10px;
+}
+.singlePageContainer{
+    text-align: center;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:12px;
+}
+.loader{
+    text-align: center;
+}

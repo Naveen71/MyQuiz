@@ -1,0 +1,40 @@
+.questionContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: wheat;
+    border-radius: 10px;
+}
+.timerContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.scoreContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.questionDetails{
+    font-family: "Roboto";
+    font-weight:bold;
+    font-size:20px;
+    color:black;
+}
+.questionNum{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style:italic;
+    font-size:26px;
+    color:white;
+}
+
+.questionNumContainer{
+    background-color: teal;
+    padding:10px;
+    padding-right:70px;
+    padding-left:70px;
+}

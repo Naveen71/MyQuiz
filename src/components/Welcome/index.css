@@ -1,0 +1,54 @@
+.welcomeContainer{
+    display: flex;
+    background-image:url(../../images/welcome.jpg);
+    justify-content: center;
+    align-items:center;
+    min-height:100vh;
+    background-size:cover;
+}
+.subContainer{
+    width:50%;
+    background-color:blanchedalmond;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    border-radius: 8px;
+    border:2px grey solid;
+}
+.startbutton{
+    color:white;
+    background-color: green;
+    padding: 10px;
+    padding-left:15px;
+    padding-right: 15px;
+    border-radius: 8px;
+    font-family: "Roboto";
+    border-width:0px;
+}
+.difficultylevel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+}
+.para{
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-right:10px;
+}
+.welcomemessage{
+    font-family: "Roboto";
+    font-size: 24px;
+    padding:10px;
+}
+.instructions{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px;
+}
+.difficultyoptions{
+    padding:8px;
+    border-radius: 8px;
+}

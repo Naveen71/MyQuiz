@@ -1,0 +1,54 @@
+.rightAnswer{
+    background-color:green;
+    padding-top:2px;
+    padding-bottom:2px ;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-top: 5px;
+    margin-bottom:5px;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius: 8px;
+}
+.comments{
+    margin:10px;
+    border:2px red solid;
+    background-color: white;
+    border-radius: 8px;
+    margin-left:50px;
+    margin-right:50px;
+    padding-top:2px;
+    padding-bottom:2px ;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.wrongAnswer{
+    background-color:red;
+    border:2px #E0E0E0 solid;
+    padding-top:2px;
+    padding-bottom:2px ;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-top: 5px;
+    margin-bottom:5px;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius: 8px;
+}
+.normalAnswer{
+    background-color:white;
+    border:2px #E0E0E0 solid;
+    padding-top:2px;
+    padding-bottom:2px ;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-top: 5px;
+    margin-bottom:5px;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius: 8px;
+}
+.option{
+    font-family: "Roboto";
+    font-size: 15px;
+}

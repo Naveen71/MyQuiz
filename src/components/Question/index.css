@@ -1,0 +1,26 @@
+.optionsList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:#d2b58a;
+    list-style-type:none ;
+    margin-top:10px;
+    text-align: left;
+    border-radius: 8px;
+}
+.questionAndOptionsContainer{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.singleQuestionContainer{
+    margin-top:10px;
+    background-color:burlywood;
+    text-align: left;
+    border-radius: 10px;
+}
+.question{
+    font-family: "Roboto";
+    font-size: 25px;
+    padding: 8px;
+}
