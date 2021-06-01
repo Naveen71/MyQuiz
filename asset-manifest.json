@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyQuiz/static/css/main.b8f46dee.chunk.css",
+    "main.js": "/MyQuiz/static/js/main.2f782028.chunk.js",
+    "main.js.map": "/MyQuiz/static/js/main.2f782028.chunk.js.map",
+    "runtime-main.js": "/MyQuiz/static/js/runtime-main.f4484d6b.js",
+    "runtime-main.js.map": "/MyQuiz/static/js/runtime-main.f4484d6b.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/MyQuiz/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.9a8a8b89.chunk.js": "/MyQuiz/static/js/2.9a8a8b89.chunk.js",
+    "static/js/2.9a8a8b89.chunk.js.map": "/MyQuiz/static/js/2.9a8a8b89.chunk.js.map",
+    "static/js/3.52f42a6f.chunk.js": "/MyQuiz/static/js/3.52f42a6f.chunk.js",
+    "static/js/3.52f42a6f.chunk.js.map": "/MyQuiz/static/js/3.52f42a6f.chunk.js.map",
+    "index.html": "/MyQuiz/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/MyQuiz/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.b8f46dee.chunk.css.map": "/MyQuiz/static/css/main.b8f46dee.chunk.css.map",
+    "static/js/2.9a8a8b89.chunk.js.LICENSE.txt": "/MyQuiz/static/js/2.9a8a8b89.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MyQuiz/static/media/welcome.591be990.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4484d6b.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.9a8a8b89.chunk.js",
+    "static/css/main.b8f46dee.chunk.css",
+    "static/js/main.2f782028.chunk.js"
+  ]
+}
